@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Stripe (11.5.0)
+  - stripe_flutter_channel (0.0.1):
+    - Flutter
+    - Stripe
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - stripe_flutter_channel (from `.symlinks/plugins/stripe_flutter_channel/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Stripe
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  stripe_flutter_channel:
+    :path: ".symlinks/plugins/stripe_flutter_channel/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  Stripe: 10761682d20dc491c52287393c800db056c9748d
+  stripe_flutter_channel: 29da476a98d71b875c91f4f621747f6080473cb2
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3
