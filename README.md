@@ -9,7 +9,7 @@ Usage
 ---
 ###### Create Stripe flutter using constructor with publishable key
 ```dart
-StripeFlutter stripeClient = StripeFlutter(stripePublishableKey, backendServerLink);
+StripeFlutterChannel stripeClient = StripeFlutterChannel(stripePublishableKey, backendServerLink);
 ```
 
 ###### Monitor instance is initialized
