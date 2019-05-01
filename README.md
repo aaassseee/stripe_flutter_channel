@@ -1,6 +1,7 @@
 # stripe_flutter_channel
 
-Integration between Stripe payment gateway and flutter using native library iOS and Android
+Integration between Stripe payment gateway and flutter using native library iOS and Android.
+
 Currently busy at the moment, will contiune to develop about mid May
 
 ## Getting Started
